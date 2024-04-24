@@ -1,2 +1,3 @@
-i dont want to add this file to you
-this  is sample script
+#!/bin/bash
+
+echo "hello, I am learning devops"
