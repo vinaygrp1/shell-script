@@ -5,4 +5,4 @@
 
  SUM=$(($No1+$No2))
  # + is a operator
- echo "total of $No1 and $No2 is : $SUM"
+ echo "Total of $No1 and $No2 is: $SUM"
