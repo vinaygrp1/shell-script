@@ -3,6 +3,6 @@
  No2=$2
 
 
- sum =(($No1+$N02))
+ SUM =$(($No1+$N02))
  # + is a operator
- echo "total of $No1 and $No2 is : $sum"
+ echo "total of $No1 and $No2 is : $SUM"
